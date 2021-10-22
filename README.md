@@ -1,0 +1,1 @@
+This is Ru's first git project!
